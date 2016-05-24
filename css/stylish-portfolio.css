@@ -19,7 +19,7 @@ body {
 .text-vertical-center {
     display: table-cell;
     text-align: center;
-    vertical-align: middle;
+    vertical-align: /*middle*/top;
 }
 
 .text-vertical-center h1 {
@@ -172,7 +172,7 @@ hr.small {
 
 .services {
     padding: 50px 0;
-    background-color: #663399;
+    background-color: #28033C;
 
 }
 
@@ -216,7 +216,7 @@ hr.small {
 
 .call-to-action {
     padding: 50px 0;
-    background-color: #663399;
+    background-color: #28033C;
 
 }
 
